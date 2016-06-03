@@ -1,0 +1,46 @@
+body{
+	font: 24px helvetica, arial, sans-serif;
+	background-color: black;
+	color: white;
+}
+
+input, button{
+    vertical-align:middle;
+    font-size: inherit;
+    text-align: center;
+}
+
+div{
+	border: 2px solid green;
+	text-align: center;
+ }
+
+#container{
+	width: 600px;
+	margin: auto;
+}
+
+ #boardDiv{
+ 	font-size: 24px;
+ 	width: 50%;
+ 	height:200px;
+ 	box-sizing: border-box;
+ 	float: left;
+ 	line-height: 200px;
+ 	letter-spacing:6px;
+ }
+
+ #gallowsDiv{
+ 	width: 50%;
+ 	height:200px;
+ 	box-sizing: border-box;
+ 	float: left;
+ }
+
+ #uiDiv{
+ 	clear: both;
+ }
+
+.gallowsImage{
+	margin: 20px 65px 20px 0;
+}

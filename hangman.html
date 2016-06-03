@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Hangman</title>
+	<script src="js/hangman.js"></script>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	<div id="container">
+		<h1>Hangman</h1>
+		<div id="boardDiv">
+			<p>The board</p>
+		</div><!-- boardDiv -->
+		<div id="gallowsDiv">
+			<p>The gallows</p>
+		</div><!-- gallowsDiv -->
+		<div id="uiDiv">
+			<p>
+				Guess a letter: <input type="text" id="guessInput" size=1 maxlength=1 autofocus>
+				<button onclick="guessLetter()">Go</button>
+			</p>
+		</div><!-- uiDiv -->
+
+
+	</div><!-- container -->
+</body>
+
+</html>

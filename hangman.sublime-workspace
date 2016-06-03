@@ -1,0 +1,551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hangman.html",
+			"settings":
+			{
+				"buffer_size": 575,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/hangman.js",
+			"settings":
+			{
+				"buffer_size": 874,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 870,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/dev/javascript/hangman",
+		"/var/www/html/dev/javascript/hangman/css",
+		"/var/www/html/dev/javascript/hangman/img",
+		"/var/www/html/dev/javascript/hangman/js"
+	],
+	"file_history":
+	[
+		"/var/www/html/dev/javascript/hangman/img/hangman-full.png",
+		"/var/www/html/dev/javascript/hangman/hangman_animation.html",
+		"/var/www/html/dev/javascript/hangman/hangman.html",
+		"/var/www/html/dev/javascript/hangman/js/hangman.js",
+		"/var/www/html/dev/javascript/hangman/hangman.js",
+		"/var/www/html/dev/javascript/hangman/ascii_hangman.js",
+		"/var/www/html/dev/javascript/hangman/style.css",
+		"/var/www/html/dev/javascript/hangman.js",
+		"/var/www/html/dev/javascript/hangman.html",
+		"/var/www/html/dev/javascript/style.css",
+		"/var/www/html/dev/javascript/ascii_hangman.js",
+		"/var/www/html/dev/javascript/multi_line.html",
+		"/var/www/html/wordpress/wp-config.php",
+		"/etc/php5/apache2/php.ini",
+		"/var/www/html/dev/phpinfo.php",
+		"/var/www/html/dev/play.php",
+		"/var/www/html/dev/javascript/scope.html",
+		"/var/www/html/dev/javascript/myScript.js",
+		"/var/www/html/dev/javascript/ext_js.html",
+		"/var/www/html/dev/javascript/hangman_debug.html",
+		"/var/www/html/dev/javascript/hangman00.html",
+		"/var/www/html/dev/javascript/hangman01.html",
+		"/home/robin/.config/sublime-text-3/Packages/hangman.js",
+		"/home/robin/.config/sublime-text-3/Packages/hangman.html",
+		"/home/robin/.config/sublime-text-3/Packages/ext_js.html",
+		"/home/robin/.config/sublime-text-3/Packages/myScript.js",
+		"/home/robin/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/var/www/html/dev/php/codecademy2.php",
+		"/var/www/html/wordpress/wp-content/themes/jream/footer.php",
+		"/var/www/html/wordpress/wp-content/themes/jream/header.php",
+		"/var/www/html/wordpress/wp-content/themes/jream/sidebar.php",
+		"/var/www/html/wordpress/wp-content/themes/jream/page.php",
+		"/var/www/html/wordpress/wp-content/themes/jream/index.php",
+		"/var/www/html/wordpress/wp-content/themes/jream/style.css",
+		"/tmp/fz3temp-1/haven_db_mail.php",
+		"/var/www/html/wordpress/wp-content/themes/jream/loop.php",
+		"/var/www/html/wordpress/wp-content/themes/jream/file2.txt",
+		"/var/www/html/wordpress/wp-content/themes/jream/file1.txt",
+		"/var/www/html/wordpress/wp-content/themes/jream/jream.sublime-project",
+		"/home/robin/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/var/www/html/wordpress/wp-content/themes/scratch-1/header.php",
+		"/var/www/html/wordpress/wp-content/themes/html5-theme-1/header.php",
+		"/var/www/html/wordpress/wp-content/themes/html5-child-1/functions.php",
+		"/var/www/html/wordpress/wp-content/themes/html5-theme-1/style.css",
+		"/var/www/html/wordpress/wp-content/themes/html5-theme-1/index.php",
+		"/var/www/html/wordpress/wp-content/themes/html5-theme-1/loop.php",
+		"/var/www/html/wordpress/wp-content/themes/scratch-1/style.css",
+		"/var/www/html/dev/haven/haven-distillery/form_example.php",
+		"/var/www/html/dev/haven/haven-distillery/index.php",
+		"/var/www/html/dev/haven/haven-distillery/readme.txt",
+		"/tmp/fz3temp-1/index.php",
+		"/var/www/html/dev/haven/haven-distillery/haven_db_mail.php",
+		"/var/www/html/dev/php/will_contact.php",
+		"/var/www/html/dev/haven/haven-distillery/config.ini",
+		"/var/www/html/dev/sql/page1.php",
+		"/var/www/html/dev/sql/haven_db/haven_db_mail.php",
+		"/var/www/html/dev/sql/haven_db/foreach.php",
+		"/var/www/html/dev/sql/haven_db/page1.php",
+		"/var/www/html/dev/sql/basics00.php",
+		"/var/www/html/dev/sql/haven_db/create_table_query.php",
+		"/var/www/html/dev/sql/page2.php",
+		"/var/www/html/dev/sql/haven_db/config.ini",
+		"/var/www/html/dev/sql/haven_db/Db.php",
+		"/var/www/html/dev/sql/database-tutorial-master/Db.php",
+		"/var/www/html/dev/sql/database-tutorial-master/config.ini",
+		"/var/www/html/dev/sql/w3sql.php",
+		"/var/www/html/dev/sql/session1.php",
+		"/var/www/html/dev/php/dummies/Author/Catalog/robin/Procedural/Catalog.php",
+		"/var/www/html/dev/php/dummies/Author/Authentication/Procedural/robin/server.php",
+		"/var/www/html/dev/haven/haven-distillery/css/style.css",
+		"/home/robin/Desktop/haven-distillery/index.php",
+		"/var/www/html/dev/haven/haven-distillery/todo.txt",
+		"/var/www/html/dev/haven-distillery_bu/spec.txt",
+		"/var/www/html/dev/haven/haven-distillery/fav.html",
+		"/var/www/html/dev/haven-distillery_bu/index_00.php",
+		"/var/www/html/wordpress/wp-content/themes/custom-1/header.php",
+		"/var/www/html/wordpress/wp-content/themes/twentysixteen/css/ie.css",
+		"/var/www/html/wordpress/wp-content/themes/twentysixteen/style.css",
+		"/var/www/html/wordpress/wp-content/themes/twentysixteen/css/ie7.css",
+		"/var/www/html/wordpress/wp-content/themes/twentysixteen/css/ie8.css",
+		"/var/www/html/wordpress/wp-content/themes/twentysixteen/css/editor-style.css",
+		"/var/www/html/wordpress/wp-content/themes/custom-1/footer.php",
+		"/var/www/html/wordpress/wp-content/themes/custom-1/old_header.php",
+		"/var/www/html/dev/haven/haven-distillery/css/style_full.css",
+		"/var/www/html/dev/haven/haven-distillery/indent.php",
+		"/var/www/html/dev/haven/haven-distillery/index_02.php",
+		"/var/www/html/dev/haven/haven-distillery/index_00.php",
+		"/var/www/html/dev/bootstrap/boot-haven/index.php",
+		"/var/www/html/dev/haven/haven-distillery/wire.php",
+		"/var/www/html/dev/bootstrap/wire.php",
+		"/var/www/html/dev/haven/haven-distillery/cols_rel_to_parent.html",
+		"/var/www/html/dev/haven/haven-distillery/index_01.php",
+		"/var/www/html/dev/bootstrap/boot-haven/rebuild-boot.php",
+		"/var/www/html/dev/bootstrap/example.php",
+		"/tmp/fz3temp-1/header.php",
+		"/var/www/html/wordpress/wp-content/themes/twentysixteen/footer.php",
+		"/home/robin/Desktop/header.php",
+		"/var/www/html/dev/bootstrap/bootstrap_form/contact-form-master/working_00.php",
+		"/var/www/html/dev/bootstrap/bootstrap_form/contact-form-master/my_index.php",
+		"/var/www/html/dev/haven/haven-distillery/my_haven.php",
+		"/var/www/html/dev/bootstrap/temp.php",
+		"/var/www/html/dev/bootstrap/bootstrap_form/contact-form-master/css/style.css",
+		"/var/www/html/dev/bootstrap/bootstrap_form/contact-form-master/my_haven.php",
+		"/var/www/html/dev/bootstrap/page.php",
+		"/var/www/html/dev/bootstrap/bootstrap_form/contact-form-master/index.php",
+		"/var/www/html/dev/bootstrap/bootstrap_form/contact-form-master/test.php",
+		"/var/www/html/dev/archive/haven-distillery_archive/will_contact.php",
+		"/var/www/html/dev/bootstrap/style.css",
+		"/home/robin/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/var/www/html/dev/php/dummies/Author/Authentication/Procedural/Auth.php",
+		"/var/www/html/dev/php/dummies/Author/Authentication/Procedural/Vars.inc",
+		"/var/www/html/wordpress/wp-content/themes/twentysixteen/index.php",
+		"/var/www/html/wordpress/wp-content/themes/custom-1/style.css",
+		"/var/www/html/wordpress/wp-content/themes/custom-1/functions.php",
+		"/var/www/html/wordpress/wp-content/themes/twentysixteen/page.php",
+		"/home/robin/Desktop/development_notes",
+		"/var/www/html/dev/php/abstract.php",
+		"/home/robin/Desktop/.htaccess",
+		"/var/www/html/dev/php/resources-AbstractClassesandMethods/index.php",
+		"/var/www/html/dev/haven_holding_page/haven-distillery/compare.php",
+		"/var/www/html/dev/haven_holding_page/haven-distillery/css/style_full.css",
+		"/var/www/html/dev/haven_holding_page/.git/HEAD",
+		"/var/www/html/dev/haven_holding_page/haven-distillery/spec.txt",
+		"/var/www/html/dev/haven_holding_page/haven-distillery/css/style_full_stable_00.css",
+		"/var/www/html/dev/haven_holding_page/haven-distillery/index.php",
+		"/var/www/html/dev/haven_holding_page/haven-distillery/focus.html",
+		"/var/www/html/dev/haven_holding_page/haven-distillery/index_stable_00.php",
+		"/var/www/html/dev/haven_holding_page/haven-distillery/robin_index.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"settings",
+			"memory",
+			"40",
+			"mem",
+			"memory",
+			");\n",
+			"$from",
+			"twitter",
+			"4.2",
+			"after",
+			"header",
+			"$errName",
+			"header",
+			"focus",
+			"color",
+			"#",
+			"border",
+			"red;",
+			"red",
+			"text-align",
+			"__",
+			"msg--error",
+			"please",
+			"div",
+			"please",
+			"msg--error",
+			"msg-error",
+			"<input .*(\\s+/>)",
+			"then",
+			"hero",
+			"speed",
+			"open",
+			"$candidate",
+			"$quotient",
+			"$err",
+			"display",
+			"$errMsg",
+			"$$errMsg",
+			"errMsg",
+			"my_list",
+			"[“”]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$errMsg",
+			"#843E0C;",
+			"843E0C;",
+			"#E82C0C",
+			"_",
+			"html5",
+			"monster",
+			"$dividend",
+			"$divisor",
+			"$errMsg",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hangman.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/hangman.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								777,
+								777
+							]
+						],
+						"settings":
+						{
+							"origPos":
+							[
+								0.0,
+								215.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"file": "img/hangman-6.png",
+					"semi_transient": true,
+					"stack_index": 2,
+					"type": "image"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								870,
+								870
+							]
+						],
+						"settings":
+						{
+							"origPos":
+							[
+								0.0,
+								743.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 743.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/php-chrome-localhost.sublime-build",
+	"project": "hangman.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
