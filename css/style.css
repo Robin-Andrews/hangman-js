@@ -11,7 +11,7 @@ input, button{
 }
 
 div{
-	border: 2px solid green;
+	border: 5px solid green;
 	text-align: center;
  }
 
@@ -28,6 +28,9 @@ div{
  	float: left;
  	line-height: 200px;
  	letter-spacing:6px;
+ 	border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
  }
 
  #gallowsDiv{
@@ -35,10 +38,19 @@ div{
  	height:200px;
  	box-sizing: border-box;
  	float: left;
- }
+    border-right: 0;
+    border-bottom: 0;
+}
+
+#beware{
+	padding-top:50px;
+}
 
  #uiDiv{
  	clear: both;
+ 	border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
  }
 
 .gallowsImage{

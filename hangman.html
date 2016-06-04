@@ -9,17 +9,17 @@
 
 <body>
 	<div id="container">
-		<h1>Hangman</h1>
+		<h2>Hangman</h2>
 		<div id="boardDiv">
 			<p>The board</p>
 		</div><!-- boardDiv -->
 		<div id="gallowsDiv">
-			<p>The gallows</p>
+			<p id="beware">Beware!</p>
 		</div><!-- gallowsDiv -->
 		<div id="uiDiv">
 			<p>
-				Guess a letter: <input type="text" id="guessInput" size=1 maxlength=1 autofocus>
-				<button onclick="guessLetter()">Go</button>
+				Guess a letter: <input type="text" id="guessInput" size=1 maxlength=1 autofocus autocomplete="off">
+				<button onclick="main()">Enter</button>
 			</p>
 		</div><!-- uiDiv -->
 
